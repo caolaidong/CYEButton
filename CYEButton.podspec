@@ -19,7 +19,7 @@ end
 # git add .
 # git commit -m 'message'
 # git push
-# git tag '1.0.10'
+# git tag '1.0.0'
 # git push --tag
 # pod lib lint CYEButton.podspec --allow-warnings
 # pod spec lint CYEButton.podspec --allow-warnings
